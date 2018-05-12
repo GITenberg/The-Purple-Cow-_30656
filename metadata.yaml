@@ -1,0 +1,28 @@
+_repo: The-Purple-Cow-_30656
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30656-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Burgess, Gelett
+    alias: Burgess, Frank Gelett
+    birthdate: 1866
+    deathdate: 1951
+    gutenberg_agent_id: '3732'
+    url: http://www.gutenberg.org/2009/agents/3732
+    wikipedia: http://en.wikipedia.org/wiki/Gelett_Burgess
+description: ''
+gutenberg_issued: '2009-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30656'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nonsense verses'
+- !lcc 'PS'
+title: The Purple Cow!
+url: http://www.gutenberg.org/ebooks/30656
